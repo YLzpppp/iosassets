@@ -13,20 +13,7 @@
                     <key>url</key>
                     <string>https://github.com/YLzpppp/iosassets/raw/main/hipassword.ipa</string>
                 </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>display-image</string>
-                    <key>needs-shine</key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://github.com/YLzpppp/iosassets/raw/main/icon_57.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image</string>
-                    <key>url</key>
-                    <string>https://raw.githubusercontent.com/YLzpppp/iosassets/main/icon_512.png</string>
-                </dict>
+                
             </array>
             <key>metadata</key>
             <dict>
@@ -39,7 +26,7 @@
                 <key>subtitle</key>
                 <string>App Subtitle</string>
                 <key>title</key>
-                <string>HiPassword 新版下载</string>
+                <string>HiPassword下载</string>
             </dict>
         </dict>
     </array>
